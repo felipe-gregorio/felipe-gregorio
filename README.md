@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gregorioshow_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-gregorio&show_icons=true&theme=dracula)
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gregorio&layout=compact&theme=dracula)](https://github.com/felipe-gregorio/github-readme-stats)
 ##
 
