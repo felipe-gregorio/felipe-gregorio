@@ -6,7 +6,7 @@
 
 - 🌱 Curso engenharia de computação
 - 💬 Interessado em trabalhar em projetos que causem impactos significativos e positivos
-- 💼 Diretor de projetos na empresa junior Therion
+- 💼 Ex-Diretor de projetos na empresa junior Therion
 
 <div style="display: inline_block"><br>
 
