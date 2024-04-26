@@ -4,9 +4,10 @@
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-gregorio&layout=compact&theme=dracula)](https://github.com/felipe-gregorio/github-readme-stats)
 ##
 
+- 💼 Analista de Dados
 - 🌱 Curso engenharia de computação
 - 💬 Interessado em trabalhar em projetos que causem impactos significativos e positivos
-- 💼 Ex-Diretor de projetos na empresa junior Therion
+
 
 <div style="display: inline_block"><br>
 
